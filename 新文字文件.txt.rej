@@ -1,0 +1,6 @@
+diff a/新文字文件.txt b/新文字文件.txt	(rejected hunks)
+@@ -0 +0 @@
+-﻿測試Branch…   再分支3號… 444444444
+\ No newline at end of file
++﻿測試Branch…   再分支3號...  test complict
+\ No newline at end of file
